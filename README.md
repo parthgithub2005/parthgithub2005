@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parthgithub2005
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science and Engineering 
 - 💞️ I’m looking to collaborate on Github
 
 <!---
